@@ -59,4 +59,8 @@ The accompanying Power BI report is structured as an interactive 2-page executiv
 * Page 1: Route Efficiency: Focuses on spatial corridor friction, distance tiers, detour overhead %, and hourly order flows.
 * Page 2: Fleet Operations: Evaluates vehicle transit velocity, traffic parity, weather impacts, and mode-to-distance dispatch distribution.
 
+### Dashboard Preview
+![Route Efficiency](Page1_Route_Efficiency.png)
+![Vehicle Operations](Page2_Vehicle_Operations.png)
+
 Tools Used: Power BI Desktop | DAX | Power Query ETL
